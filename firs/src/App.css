@@ -1,6 +1,9 @@
 .App {
   text-align: center;
-  background-color: green;
+  background-color: rgb(69, 75, 69);
+}
+body{
+  background: #3a3737;
 }
 
 .label {
@@ -34,7 +37,7 @@
 
 .error {
   display: block;
-  background-color: red;
+  background-color: rgb(70, 67, 67);
   color: white;
   width: fit-content;
   height: 50px;
